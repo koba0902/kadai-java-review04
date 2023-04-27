@@ -1,9 +1,9 @@
 package animal;
 
-public class Human extends Animal implements Thinkable {
+public class human extends Animal implements Thinkable {
     private String hobby;
 
-    public Human(String name, int age, String hobby) {
+    public human(String name, int age, String hobby) {
         super(name, age);
         this.hobby = hobby;
     }

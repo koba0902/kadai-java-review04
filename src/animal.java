@@ -1,10 +1,10 @@
 package animal;
 
-public class Animal {
+public class animal {
     private String name;
     private int age;
 
-    public Animal(String name, int age) {
+    public animal(String name, int age) {
         this.name = name;
         this.age = age;
     }
